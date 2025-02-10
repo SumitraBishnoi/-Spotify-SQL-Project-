@@ -224,12 +224,3 @@ GROUP BY platform
 ORDER BY total_playtime_minutes DESC;
 
 
-SELECT COUNT(DISTINCT LOWER(TRIM(track_name))) AS unique_tracks
-FROM spotify
-WHERE track_name IS NOT NULL;
-
-
-
-
-
-
