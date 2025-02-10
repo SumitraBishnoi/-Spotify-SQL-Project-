@@ -1,7 +1,7 @@
 ### **Spotify SQL Project**
 This repository contains SQL queries and analysis based on Spotify listening data, focusing on user behavior and trends over the years.
 
-![Spotify Logo] (https://github.com/SumitraBishnoi/-Spotify-SQL-Project-/blob/main/spotify-logo.jpg)
+![Spotify Logo](https://github.com/SumitraBishnoi/-Spotify-SQL-Project-/blob/main/spotify-logo.jpg)
 
 ---
 
